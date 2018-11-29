@@ -1,5 +1,6 @@
 # Appinventor_Project_Presentation
 ## 기말 프로젝트
+###### 윤순상
 ***
 * 첫번째
   * 두번째
