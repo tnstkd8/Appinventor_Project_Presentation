@@ -7,4 +7,4 @@
 
 ***
 
-[프로젝트 유튜브](http://youtube.com)
+[프로젝트 유튜브](youtube.com)
